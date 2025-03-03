@@ -1,0 +1,28 @@
+{
+  "category": "agent",
+  "description": "Identify vulnerabilities in smart contracts in the Near ecosystem.",
+  "tags": [
+    "near",
+    "NEAR AI",
+    "sequrity",
+    "sheriff",
+    "vulnerability",
+    "testing",
+    "reliability",
+    "analytics",
+    "monitoring"
+  ],
+  "details": {
+    "agent": {
+      "framework": "web-agent",
+      "model_max_tokens": 16384,
+      "welcome": {
+        "description": "The Near AI Agent rAIxon Sheriff in the Near AI ecosystem is designed to identify vulnerabilities in smart contracts, both the Near blockchain and other blockchains. In addition to well-known data, in this case, a knowledge base with vulnerability codes created on sources such as CVE, CISA KEV, EPSS, BCCC, etc. is used to expand the expert capabilities of the rAIxon Sheriff Agent.",
+        "title": "Identify vulnerabilities in smart contracts in the Near ecosystem"
+      }
+    }
+  },
+  "show_entry": true,
+  "name": "near-ai-monitor",
+  "version": "0.1.1"
+}
